@@ -168,5 +168,5 @@ The final result shows strong partial convergence, but not perfect success. Some
 
 ## Final Agent Performance Video
 
-Click below to watch the final trained PPO agent performance:
+Click below to watch the final trained agent performance:
 ([https://drive.google.com/file/d/1F9BgRXSepHq86CB_M13CREwij2hVEVBG/view?usp=sharing](https://drive.google.com/file/d/1hd1u3AnDva1MaOzMv3z2c619MFGntOlY/view?usp=sharing))
