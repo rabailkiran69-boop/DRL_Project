@@ -76,7 +76,9 @@ Changes added:
 | Entropy coefficient | 0.001 |
 | VF coefficient | 0.5 |
 | Max grad norm | 0.5 |
+
 ![PPO Improved](PPOimproved.gif)
+
 ### PPO Result
 - Baseline PPO reward: 63.60
 - Improved PPO reward: 832.82
