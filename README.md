@@ -112,11 +112,11 @@ SAC is off-policy and uses a replay buffer, which allows it to reuse past experi
 - Mean reward: 15240.90
 - Standard deviation: 8544.28
 
-![Ep50 Result](sac episode_50.gif)
-![Ep150 Result](sac episode_150.gif)
-![Ep300 Result](sac episode_300.gif)
-![Ep500 Result](sac episode_500.gif)
-![Ep750 Result](sac episode_750.gif)
+![Ep50 Result](sacepisode_50.gif)
+![Ep150 Result](sacepisode_150.gif)
+![Ep300 Result](sacepisode_300.gif)
+![Ep500 Result](sacepisode_500.gif)
+![Ep750 Result](sacepisode_750.gif)
 ![Final Result](final_sac.gif)
 
 SAC achieved better shaped reward and smoother control than PPO.
