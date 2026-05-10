@@ -112,15 +112,7 @@ SAC is off-policy and uses a replay buffer, which allows it to reuse past experi
 - Mean reward: 15240.90
 - Standard deviation: 8544.28
 
-### SAC Episode Progress
-
-| Episode 50 | Episode 150 | Episode 300 |
-|---|---|---|
-| ![SAC Episode 50](sac_episode_50.gif) | ![SAC Episode 150](sac_episode_150.gif) | ![SAC Episode 300](sac_episode_300.gif) |
-
-| Episode 500 | Episode 750 | Final SAC |
-|---|---|---|
-| ![SAC Episode 500](sac_episode_500.gif) | ![SAC Episode 750](sac_episode_750.gif) | ![Final SAC](final_sac.gif) |
+ ![Final SAC](final_sac.gif) |
 
 ---
 
