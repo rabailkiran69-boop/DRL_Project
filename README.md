@@ -57,9 +57,12 @@ Changes added:
 - 4 vectorized environments
 - tuned hyperparameters
 - staged training at 100K, 200K, and 400K timesteps
+
+
 ![100k Result](PPOstep_100k.gif)
 ![200k Result](PPOstep_200k.gif)
 ![400k Result](PPOstep_400k.gif)
+
 ### Improved PPO Parameters
 
 | Parameter | Value |
@@ -106,6 +109,7 @@ SAC is off-policy and uses a replay buffer, which allows it to reuse past experi
 
 - Mean reward: 15240.90
 - Standard deviation: 8544.28
+
 ![Ep50 Result](sac episode_50.gif)
 ![Ep150 Result](sac episode_150.gif)
 ![Ep300 Result](sac episode_300.gif)
